@@ -1,0 +1,10 @@
+[
+  {
+    "package": "greport",
+    "oncran": true
+  },
+  {
+    "package": "rms",
+    "oncran": true
+  }
+]

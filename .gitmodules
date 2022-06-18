@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "greport"]
+	path = greport
+	url = https://github.com/harrelfe/greport
+	shallow = true
+	registered = true
+[submodule "rms"]
+	path = rms
+	url = https://github.com/harrelfe/rms
+	shallow = true
+	registered = true
