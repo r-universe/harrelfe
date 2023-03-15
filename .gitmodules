@@ -8,8 +8,18 @@
 	url = https://github.com/harrelfe/greport
 	shallow = true
 	registered = true
+[submodule "Hmisc"]
+	path = Hmisc
+	url = https://github.com/harrelfe/hmisc
+	shallow = true
+	registered = true
 [submodule "rms"]
 	path = rms
 	url = https://github.com/harrelfe/rms
+	shallow = true
+	registered = true
+[submodule "rmsb"]
+	path = rmsb
+	url = https://github.com/harrelfe/rmsb
 	shallow = true
 	registered = true

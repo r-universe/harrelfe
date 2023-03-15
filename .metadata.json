@@ -4,7 +4,15 @@
     "oncran": true
   },
   {
+    "package": "Hmisc",
+    "oncran": true
+  },
+  {
     "package": "rms",
+    "oncran": true
+  },
+  {
+    "package": "rmsb",
     "oncran": true
   }
 ]
