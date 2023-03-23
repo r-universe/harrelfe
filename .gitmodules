@@ -13,6 +13,11 @@
 	url = https://github.com/harrelfe/hmisc
 	shallow = true
 	registered = true
+[submodule "qreport"]
+	path = qreport
+	url = https://github.com/cran/qreport
+	shallow = true
+	registered = true
 [submodule "rms"]
 	path = rms
 	url = https://github.com/harrelfe/rms
