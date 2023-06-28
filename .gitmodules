@@ -1,30 +1,19 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "greport"]
 	path = greport
 	url = https://github.com/harrelfe/greport
-	shallow = true
-	registered = true
 [submodule "Hmisc"]
 	path = Hmisc
 	url = https://github.com/harrelfe/hmisc
-	shallow = true
-	registered = true
 [submodule "qreport"]
 	path = qreport
 	url = https://github.com/cran/qreport
-	shallow = true
-	registered = true
 [submodule "rms"]
 	path = rms
 	url = https://github.com/harrelfe/rms
-	shallow = true
-	registered = true
 [submodule "rmsb"]
 	path = rmsb
 	url = https://github.com/harrelfe/rmsb
-	shallow = true
-	registered = true
