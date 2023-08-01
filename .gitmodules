@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "greport"]
-	path = greport
-	url = https://github.com/harrelfe/greport
 [submodule "Hmisc"]
 	path = Hmisc
 	url = https://github.com/harrelfe/hmisc
+[submodule "greport"]
+	path = greport
+	url = https://github.com/harrelfe/greport
 [submodule "qreport"]
 	path = qreport
 	url = https://github.com/cran/qreport
